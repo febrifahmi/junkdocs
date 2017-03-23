@@ -1,0 +1,2 @@
+# junkdocs
+Scribd is one of a leading online document sharing site, which "force" the user to upload unique document to get access to a specific document, or download a document by paying a subscription if the user don't want to upload anything to the server. In doing this, Scribd always check the validity of files submitted to their server. However, it fails to check whether the file submitted is a legit documents or merely a junk files containing random chars. This code creates junk file and write a bunch of random characters as you like.
